@@ -1,0 +1,5 @@
+Python 3.7 and greater
+Tkinter for Python 3.7+ 
+pandas 0.25.1
+IPython 
+tabulate 0.8.7
